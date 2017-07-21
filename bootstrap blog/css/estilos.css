@@ -1,0 +1,6 @@
+.slider{
+  background: url("../imagenes/portada.jpg");
+  height: 45vh;
+  background-size: cover;
+  background-position: center;
+}
